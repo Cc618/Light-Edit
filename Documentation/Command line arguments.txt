@@ -1,0 +1,4 @@
+	To use this program with the command line:
+
+- <No arguments>		: The program will open with a blank document.
+- file_path				: The program will open with the file in the document.
